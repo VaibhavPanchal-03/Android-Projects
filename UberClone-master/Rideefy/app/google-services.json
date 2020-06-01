@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611236310299",
+    "firebase_url": "https://rideefy.firebaseio.com",
+    "project_id": "rideefy",
+    "storage_bucket": "rideefy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611236310299:android:5c2bb31321640a6da3f7be",
+        "android_client_info": {
+          "package_name": "com.example.rideefy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611236310299-pv29jtr0j5uoccme3b0o439p140fggal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rideefy",
+            "certificate_hash": "0fdc837d84fe955b71406bede83b9f11c7dcd078"
+          }
+        },
+        {
+          "client_id": "611236310299-mk3jh5h7a5hpb2bvu80j8ii5acqkmjph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3i_8ehx9Ms83LSyHHtByLotz-POxeu04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611236310299-mk3jh5h7a5hpb2bvu80j8ii5acqkmjph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
